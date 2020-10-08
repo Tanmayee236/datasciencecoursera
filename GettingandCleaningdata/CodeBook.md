@@ -1,12 +1,7 @@
----
-title: "CodeBook.md"
-author: "Tanmayee"
-date: "10/8/2020"
-output: html_document
----
 
 
-## R Markdown
+
+## CodeBook.md
 
 This is a description of the analysis done on the dataset as described in the project assignment. The run_analysis.R does the following 
 
@@ -21,11 +16,11 @@ of each variable for each activity and each subject.
 
 The TidyDataSet.txt has the data averaged over 6 activities and 30 subjects. The acivities are following 
 
-WALKING\
-WALKINGUPSTAIRS\
-WALKINGDOWNSTAIRS\
-SITTING\
-STANDING\
-LAYING\
+WALKING
+WALKINGUPSTAIRS
+WALKINGDOWNSTAIRS
+SITTING
+STANDING
+LAYING
 
 
