@@ -1,9 +1,7 @@
----
-title: "README.md"
----
 
 
-## R Markdown
+
+## README.md
 
 The description of the files is
 1. run_analysis.R - It contains the script used to tidy the data set as mention in the instructions given in the Project Assingment. 
