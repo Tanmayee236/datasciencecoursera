@@ -1,12 +1,6 @@
----
-title: "CodeBook.md"
-author: "Tanmayee"
-date: "10/8/2020"
-output: html_document
----
 
 
-## R Markdown
+## CodeBook.md
 
 This is a description of the analysis done on the dataset as described in the project assignment. The run_analysis.R does the following 
 
@@ -14,7 +8,7 @@ This is a description of the analysis done on the dataset as described in the pr
 2. Load the test and training data.
 3. Merge the test and train datasets
 4. Selecting measurements with std or mean in the name
-5. Assinging descriptive names to the activities
+5. Assigning descriptive names to the activities
 6. Using descriptive names for columns 
 7. Creating a second independent tidy data set with the average 
 of each variable for each activity and each subject.
@@ -26,6 +20,6 @@ WALKINGUPSTAIRS\
 WALKINGDOWNSTAIRS\
 SITTING\
 STANDING\
-LAYING\
+LAYING
 
 
