@@ -1,2 +1,2 @@
-# Data_Science Course era specilization 
+# Data_Science Course era specialization 
 
